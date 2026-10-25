@@ -1,28 +1,27 @@
 
 # Replace the text below to customize your site
-site_name: Nombre Estudiante - UTEC & Fab Lab Barcelona & Fab Lab Esan
-site_description: Master in Design for Emergent Futures
-site_author: Nombre Estudiante
-copyright: Copyleft 2024 "Nombre Estudiante" - GNU Free Documentation License
-repo_name: "Name : Github Repo"
-site_url: https://fablabbcn.github.io/efdi-template/
-repo_url: https://github.com/fablabbcn/efdi-template
+site_name: PHASIS
+site_description: Bitácora de procesos, exploraciones y aprendizajes en fabricación digital e innovación abierta.
+site_author: Lucía Arreche Del Sur
+copyright: Copyright 2026 Lucía Arreche Del Sur
+repo_name: "PHASIS | GitHub"
+site_url: https://luciaarreche.github.io/lucia-arreche-del-sur/
+repo_url: https://github.com/luciaarreche/lucia-arreche-del-sur
 
 nav:
-  - Home: index.md
-  - About: about/me.md
-  - About sitio web: about sitio web/sitio web-mt01.md
-  - Tecnología y Fabricación:
-      - Bloque 1 MT02-MT03: tecnicos/mt02-03.md
+  - Inicio: index.md
+  - Sobre mí: about/me.md
+  - Sobre este sitio: about sitio web/sitio web-mt01.md
+  - Tecnología y fabricación:
+      - Bloque 1 · MT02–MT03: tecnicos/mt02-03.md
   - Diseño:
-      - Bloque 1 MD01: diseno/md01.md
+      - Bloque 1 · MD01: diseno/md01.md
   - Innovación:
-      - Bloque 1 MI01: innovacion/mi01.md
-  - Proyecto Integrador:
-      - Ideas Iniciales: proyecto/proyecto.md
+      - Bloque 1 · MI01: innovacion/mi01.md
+  - Proyecto integrador:
+      - Ideas iniciales: proyecto/proyecto.md
   - Referencias:
-      - web: ref/web.md
-
+      - Recursos web: ref/web.md
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/

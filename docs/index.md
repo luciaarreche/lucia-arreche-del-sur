@@ -1,5 +1,9 @@
-## Welcome
+# PHASIS
 
-![](../images/perezoso.jpg)
+*Procesos en estado crudo.*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Me interesa lo que emerge cuando materiales, saberes y distintas formas de mirar entran en relación.
+
+Entiendo el hacer como una forma de pensar, donde cada encuentro puede transformar lo que conocemos y abrir posibilidades que no estaban previstas.
+
+Esta bitácora reúne pruebas, desvíos y descubrimientos de un proceso abierto, en constante construcción.
