@@ -346,3 +346,19 @@
     rgba(174, 179, 175, 0.25) 1.8em
   );
 }
+
+
+/* PHASIS — Prisma en Sobre mí */
+
+
+/* PHASIS — Reflejo facetado en Sobre mí */
+
+.md-typeset .phasis-prisma {
+    position: absolute;
+   width: 550px;
+    height: auto;
+   margin-top: 150px;
+   margin-left: -370px;
+    opacity: 0.65;
+    pointer-events: none;
+}

@@ -1,5 +1,8 @@
 # Sobre mí
 
+<img src="/lucia-arreche-del-sur/images/hola/prisma.png" class="phasis-prisma" alt="Reflejo facetado de luz">
+
+
 ![Retrato de Lucía](../images/hola/lucia.jpg){ width="250" style="display: block; margin-left: auto; margin-right: auto;" }
 
 Soy Lucía Arreche Del Sur, diseñadora industrial con orientación textil y docente universitaria.
